@@ -1,0 +1,147 @@
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent">
+<LinearLayout 
+    
+    android:id="@+id/linearLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shell"
+    android:gravity="left"
+    android:orientation="vertical" >
+
+ 
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left" 
+        android:layout_marginTop="60dp" >
+      <TextView
+            android:id="@+id/opAcctTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="运营账户   "
+            android:textSize="20dp"/>
+      <EditText
+        android:id="@+id/opAcctDepositEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:text="0.00"
+        android:ems="4" />
+      
+            <TextView
+            android:id="@+id/opAcctAddTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="+ "
+            android:textSize="20dp"/>
+      
+      <EditText
+        android:id="@+id/opAcctDepositAddEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number|numberSigned|numberDecimal"
+        android:text="0.00"
+        android:ems="4" />
+    </LinearLayout> 
+
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:layout_gravity="left"  >
+      <TextView
+            android:id="@+id/ballAcctTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="球球账户   "
+            android:textSize="20dp"/>
+      <EditText
+        android:id="@+id/ballAcctDepositEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:text="0.00"
+        android:ems="4" />
+      
+            <TextView
+            android:id="@+id/ballAcctAddTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="+ "
+            android:textSize="20dp"/>
+      
+      <EditText
+        android:id="@+id/ballAcctDepositAddEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number|numberSigned|numberDecimal"
+        android:text="0.00"
+        android:ems="4" />
+    </LinearLayout> 
+    
+                <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:layout_gravity="left"  >
+      <TextView
+            android:id="@+id/activityAcctTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="活动账户   "
+            android:textSize="20dp"/>
+      <EditText
+        android:id="@+id/activityAcctDepositEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:text="0.00"
+        android:ems="4" />
+      
+            <TextView
+            android:id="@+id/activityAcctAddTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="+ "
+            android:textSize="20dp"/>
+      
+      <EditText
+        android:id="@+id/activityAcctDepositAddEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number|numberSigned|numberDecimal"
+        android:text="0.00"
+        android:ems="4" />
+    </LinearLayout> 
+        
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:layout_gravity="center"  >
+    <Button
+        android:id="@+id/okBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="确定" />
+
+    <Button
+        android:id="@+id/backBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="返回" />
+    </LinearLayout>
+
+
+</LinearLayout>
+</ScrollView>

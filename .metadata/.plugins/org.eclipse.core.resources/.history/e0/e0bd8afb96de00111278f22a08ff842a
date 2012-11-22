@@ -1,0 +1,90 @@
+package weibo4j.examples.timeline;
+
+import java.io.BufferedInputStream;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+
+import weibo4j.Timeline;
+import weibo4j.Weibo;
+import weibo4j.model.Status;
+import android.os.Environment;
+import android.widget.TextView;
+
+import com.zack.utilities.Constants;
+
+
+public class Upload {
+	public static void main(String args[]){
+		try{
+			Weibo weibo = new Weibo();
+			weibo.setToken(args[0]);
+			try{
+		
+				String s=java.net.URLEncoder.encode( args[1],"utf-8");
+				Timeline tl = new Timeline();
+				
+				String path = Environment.getExternalStorageDirectory()
+						.toString();
+				File file = new File(path, Constants.ACTIVITY_WEIBO_PIC_PATH);
+				
+				Status status=tl.uploadStatus("pic", s, file);
+
+				System.out.println("Successfully upload the status to ["
+						+status.getText()+"].");
+			}
+			catch(Exception e1){
+				e1.printStackTrace();
+			}
+		}catch(Exception ioe){
+			System.out.println("Failed to read the system input.");
+		}
+	}
+	
+	public  static void updateMsgWithFile(String token, String msg, String relativePath, TextView rankingTv)
+	{
+		try{
+			Weibo weibo = new Weibo();
+			weibo.setToken(token);
+			try{
+		
+				rankingTv.setText("5");
+				
+				String s=java.net.URLEncoder.encode( msg,"utf-8");
+				Timeline tl = new Timeline();
+				
+				rankingTv.setText("6");
+				String path = Environment.getExternalStorageDirectory()
+						.toString();
+				File file = new File(path, relativePath);
+				rankingTv.setText("7");
+				
+				Status status=tl.uploadStatus("pic", s, file);
+				rankingTv.setText("8");
+				System.out.println("Successfully upload the status to ["
+						+status.getText()+"].");
+			}
+			catch(Exception e1){
+				rankingTv.setText(e1.getMessage() + " " + e1.getStackTrace());
+				e1.printStackTrace();
+			}
+		}catch(Exception ioe){
+			rankingTv.setText("10");
+			System.out.println("Failed to read the system input.");
+		}
+	}
+	
+	public static byte[] readFileImage(String filename)throws IOException{
+		BufferedInputStream bufferedInputStream=new BufferedInputStream(
+				new FileInputStream(filename));
+		int len =bufferedInputStream.available();
+		byte[] bytes=new byte[len];
+		int r=bufferedInputStream.read(bytes);
+		if(len !=r){
+			bytes=null;
+			throw new IOException("exception");
+		}
+		bufferedInputStream.close();
+		return bytes;
+	}
+}

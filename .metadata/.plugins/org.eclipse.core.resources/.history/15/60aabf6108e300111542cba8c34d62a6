@@ -1,0 +1,172 @@
+package com.zack.data.adapter;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.nio.channels.FileChannel;
+import java.util.List;
+
+import android.app.Activity;
+import android.content.Context;
+import android.content.DialogInterface;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+import android.widget.Button;
+import android.widget.TextView;
+
+import com.zack.financemgr.activity.BaseActivity;
+import com.zack.financemgr.activity.MainActivity;
+import com.zack.financemgr.activity.R;
+import com.zack.financemgr.activity.RestoreDBActivity;
+import com.zack.persistent.entity.DBEntry;
+import com.zack.utilities.Utilities;
+
+public class DBArrayAdapter extends ArrayAdapter<DBEntry> {
+
+	private final Context context;
+	
+	public DBArrayAdapter(Context theContext, int resource, List<DBEntry> objects) {
+		super(theContext, resource, objects);
+
+		this.context = theContext;
+	}	
+	
+	private void fillSingleEntry(View rowView, BaseActivity activity, final DBEntry entry)
+	{
+		 //========================================================================
+		 TextView dbName = (TextView) rowView.findViewById(R.id.txtDbName);		 dbName.setText(entry.getName());
+		 
+
+		//===Restore Button=====================================================================
+		 Button restoreBtn = (Button) rowView.findViewById(R.id.restoreBtn);
+
+		 DialogInterface.OnClickListener restoreListener = new DialogInterface.OnClickListener() {
+			    
+			    public void onClick(DialogInterface dialog, int which) {
+			        switch (which){
+			        case DialogInterface.BUTTON_POSITIVE:
+			        {
+			            if(restore(entry.getPath()))
+			            {
+			            	Utilities.showToast("恢复成功", (Activity)context);
+			            	BaseActivity ba = (BaseActivity)context;
+			            	ba.startNewActivity(ba,MainActivity.class);
+			            }
+			            else
+			            {
+			            	Utilities.showToast("恢复失败", (Activity)context);
+			            }
+			        		
+			            break;	
+			        }
+
+
+			        case DialogInterface.BUTTON_NEGATIVE:
+			            //No button clicked
+			            break;
+			        }
+			    }
+			};
+		 
+		 activity.addListenerOnButtonForDiag(restoreBtn, "真要恢复？", "当然", "再想想", restoreListener);
+		//===Delete Button=====================================================================
+		 Button deleteBtn = (Button) rowView.findViewById(R.id.deleteBtn);
+
+		 DialogInterface.OnClickListener deleteListener = new DialogInterface.OnClickListener() {
+			    
+			    public void onClick(DialogInterface dialog, int which) {
+			        switch (which){
+			        case DialogInterface.BUTTON_POSITIVE:
+			        {
+			            if(delete(entry.getPath()))
+			            {
+			            	Utilities.showToast("删除成功", (Activity)context);
+			            	BaseActivity ba = (BaseActivity)context;
+			            	ba.startNewActivity(ba, RestoreDBActivity.class);
+			            }
+			            else
+			            {
+			            	Utilities.showToast("删除失败", (Activity)context);
+			            }
+			        		
+			            break;	
+			        }
+
+
+			        case DialogInterface.BUTTON_NEGATIVE:
+			            //No button clicked
+			            break;
+			        }
+			    }
+			};
+		 
+		 activity.addListenerOnButtonForDiag(deleteBtn, "真要删除？", "当然", "再想想", deleteListener);
+	}
+	
+	
+	protected boolean restore(String path) {
+	    try {
+	        File currentDBFile = Utilities.getDBFile(context);	         
+            File backupDBFile = new File(path);
+
+            if (currentDBFile.exists()) {
+                FileChannel src = new FileInputStream(backupDBFile).getChannel();
+                FileChannel dst = new FileOutputStream(currentDBFile).getChannel();
+                dst.transferFrom(src, 0, src.size());
+                src.close();
+                dst.close();
+            }
+            
+            return true;
+	        
+	    } catch (Exception e) {
+	    	return false;
+	    }
+
+	}
+	
+	protected boolean delete(String path) {
+	    try {        
+            File backupDBFile = new File(path);
+
+            if (backupDBFile.exists()) {
+            	
+            	backupDBFile.delete();
+            	
+            }
+            
+            return true;
+	        
+	    } catch (Exception e) {
+	    	return false;
+	    }
+
+	}
+
+	@Override
+	public View getView(int position, View convertView, ViewGroup parent)
+	{
+		 DBEntry entry = this.getItem(position);
+		 BaseActivity activity = (BaseActivity)context;
+		 
+		 View rowView = convertView;
+		 
+		 if(rowView != null)
+		 {			 
+			 fillSingleEntry(rowView, activity, entry);
+			 
+			 return rowView;
+		 }
+		 
+		 LayoutInflater inflater = (LayoutInflater) context
+					.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+		 rowView = inflater.inflate(R.layout.db_entry, parent, false);
+		 
+		 fillSingleEntry(rowView, activity, entry);
+		 
+		 return rowView;
+	}
+
+}

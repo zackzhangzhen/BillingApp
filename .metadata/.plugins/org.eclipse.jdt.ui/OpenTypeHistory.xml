@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=com.zack.financemgr.MainActivity/src&lt;com.zack.persistent.dao{MemberDAO.java[MemberDAO" modifiers="1" timestamp="1343919000885"/>
+<typeInfo handle="=com.zack.financemgr.MainActivity/src&lt;com.zack.persistent.entity{Member.java[Member" modifiers="1" timestamp="1343921010594"/>
+<typeInfo handle="=com.zack.financemgr.MainActivity/src&lt;com.zack.persistent.dao{BaseAcctDAO.java[BaseAcctDAO" modifiers="1" timestamp="1343473596795"/>
+<typeInfo handle="=com.zack.financemgr.MainActivity/src&lt;weibo4j.http{HttpClient.java[HttpClient" modifiers="1" timestamp="1343490327708"/>
+<typeInfo handle="=com.zack.financemgr.MainActivity/src&lt;weibo4j{Weibo.java[Weibo" modifiers="1" timestamp="1325659138000"/>
+<typeInfo handle="=com.zack.financemgr.MainActivity/src&lt;com.zack.utilities{Constants.java[Constants" modifiers="1" timestamp="1343977264101"/>
+<typeInfo handle="=com.zack.financemgr.MainActivity/src&lt;com.zack.utilities{Utilities.java[Utilities" modifiers="1" timestamp="1343983609808"/>
+<typeInfo handle="=com.zack.financemgr.MainActivity/examples&lt;weibo4j.examples.timeline{Upload.java[Upload" modifiers="1" timestamp="1344693309639"/>
+</typeInfoHistroy>

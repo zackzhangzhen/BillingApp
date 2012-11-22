@@ -1,0 +1,39 @@
+<LinearLayout 
+    android:id="@+id/linearLayout1"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/wheat"
+    android:orientation="vertical" >
+ 
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:layout_gravity="center">
+        
+   
+    
+   	<Button
+        android:id="@+id/backBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back" />
+    </LinearLayout>
+    
+
+	<!--HorizontalScrollView android:id="@+id/HorizontalScrollView01" 
+	                      android:layout_width="300dp" 
+	                      android:layout_height="300dp"
+	                      android:layout_gravity="center"-->
+	                <WebView
+	        android:id="@+id/authWebView"
+	        android:layout_width="300dp"
+	        android:layout_height="600dp"
+	        android:layout_marginTop="2dp"
+	        android:layout_gravity="center"
+	        android:scrollbars="vertical"/>
+	<!--/HorizontalScrollView-->
+</LinearLayout>

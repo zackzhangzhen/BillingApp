@@ -1,0 +1,402 @@
+
+
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent">
+<LinearLayout 
+    
+    android:id="@+id/linearLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shell"
+    android:gravity="left"    
+    android:orientation="vertical" >
+
+ <LinearLayout
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="left"
+     android:layout_marginTop="40dp"   
+     android:layout_marginLeft="5dp"  
+     android:gravity="left" >
+
+     <TextView
+         android:id="@+id/dateTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="                                 "
+         android:textSize="15dp" 
+         android:paddingTop="11dp"
+         android:paddingBottom="11dp"/>
+
+     <TextView
+            android:id="@+id/dateValTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:textSize="15dp"/>
+    </LinearLayout>
+	
+ 	<LinearLayout
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="left"
+     android:layout_marginTop="2dp"
+     android:gravity="left" 
+     android:layout_marginLeft="5dp" >
+
+     <TextView
+         android:id="@+id/dummyTextView1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="                                "
+         android:textSize="15dp" />
+
+    <Button
+        android:id="@+id/editActualComeBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="选择到场会员" />
+    </LinearLayout>
+ 
+ 	<LinearLayout
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="left"
+     android:layout_marginTop="2dp"
+     android:gravity="left"
+     android:layout_marginLeft="5dp"  >
+
+     <TextView
+         android:id="@+id/membersTextView"
+         android:layout_width="fill_parent"
+         android:layout_height="fill_parent"
+         android:text="参加活动会员           "
+         android:textSize="15dp"
+         android:paddingTop="11dp"
+         android:paddingBottom="11dp"
+          />
+
+     <TextView
+         android:id="@+id/membersValTextView"
+         android:layout_width="fill_parent"
+         android:layout_height="fill_parent"
+         android:textSize="15dp" 
+         android:maxLines = "8"         
+         android:scrollbars = "vertical" />
+    </LinearLayout>
+ 	
+ 	<LinearLayout
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="left"
+     android:layout_marginTop="2dp"
+     android:gravity="left" 
+     android:layout_marginLeft="5dp" >
+
+     <TextView
+         android:id="@+id/memberCountTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="实到会员人数           "
+         android:textSize="15dp" 
+         android:paddingTop="11dp"
+         android:paddingBottom="11dp"/>
+
+     <TextView
+         android:id="@+id/memberCountValTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="15dp" />
+    </LinearLayout>
+ 	
+ 	
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:layout_gravity="left"
+        android:layout_marginLeft="5dp"   >
+      <TextView
+            android:id="@+id/ballTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="球钱                         "
+            android:textSize="15dp" />
+      <EditText
+        android:id="@+id/ballEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal" 
+        android:ems="8">
+        <requestFocus />
+      </EditText>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:layout_gravity="left"
+        android:layout_marginLeft="5dp"   >
+      <TextView
+            android:id="@+id/courtTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="场地                         "
+            android:textSize="15dp" />
+      <EditText
+        android:id="@+id/courtEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:inputType="numberDecimal" 
+        android:ems="8"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:layout_gravity="left" 
+        android:layout_marginLeft="5dp"  >
+      <TextView
+            android:id="@+id/waterTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="水钱                         "
+            android:textSize="15dp"/>
+      <EditText
+        android:id="@+id/waterEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal" 
+        android:ems="8"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:layout_gravity="left" 
+        android:layout_marginLeft="5dp"  >
+      <TextView
+            android:id="@+id/nonMemberCountTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="非会员人数              "
+            android:textSize="15dp"/>
+      <EditText
+        android:id="@+id/nonMemberCountEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number" 
+        android:ems="8" />
+    </LinearLayout>
+ 	<LinearLayout
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="left"
+     android:layout_marginTop="2dp"
+     android:gravity="left"
+     android:layout_marginLeft="5dp"  >
+
+     <TextView
+         android:id="@+id/avgBallTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="人均球钱                   "
+         android:textSize="15dp"
+         android:paddingTop="8dp"
+         android:paddingBottom="8dp" />
+
+     <TextView
+         android:id="@+id/avgBallValTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="15dp" />
+    </LinearLayout>
+    
+ 	<LinearLayout
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="left"
+     android:layout_marginTop="2dp"
+     android:gravity="left" 
+     android:layout_marginLeft="5dp" >
+
+     <TextView
+         android:id="@+id/avgCourtTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="人均场地                   "
+         android:textSize="15dp" 
+         android:paddingTop="8dp"
+         android:paddingBottom="8dp"
+          
+         />
+
+     <TextView
+         android:id="@+id/avgCourtValTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="15dp"/>
+    </LinearLayout>
+ 	<LinearLayout
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="left"
+     android:layout_marginTop="2dp"
+     android:gravity="left"
+     android:layout_marginLeft="5dp"  >
+
+     <TextView
+         android:id="@+id/avgMemberWaterTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="会员人均水钱            "
+         android:textSize="15dp" 
+         android:paddingTop="11dp"
+         android:paddingBottom="11dp"
+         />
+
+     <TextView
+         android:id="@+id/avgMemberWaterValTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="15dp"/>
+    </LinearLayout>
+    <LinearLayout
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="left"
+     android:layout_marginTop="2dp"
+     android:gravity="left"
+     android:layout_marginLeft="5dp"  >
+
+     <TextView
+         android:id="@+id/avgMemberTotalTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="会员人均总额            "
+         android:textSize="15dp" 
+         android:paddingTop="11dp"
+         android:paddingBottom="11dp"/>
+
+     <TextView
+         android:id="@+id/avgMemberTotalValTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="15dp" />
+    </LinearLayout>
+    <LinearLayout
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="left"
+     android:layout_marginTop="2dp"
+     android:gravity="left"
+     android:layout_marginLeft="5dp"  >
+
+     <TextView
+         android:id="@+id/avgNonMemberTotalTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="非会员人均总额        "
+         android:textSize="15dp" 
+         android:paddingTop="8dp"
+         android:paddingBottom="8dp"/>
+
+     <TextView
+         android:id="@+id/avgNonMemberTotalValTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="15dp"/>
+    </LinearLayout>
+    <LinearLayout
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="left"
+     android:layout_marginTop="2dp"
+     android:gravity="left"
+     android:layout_marginLeft="5dp"  >
+
+     <TextView
+         android:id="@+id/avgNonMemberCourtesyTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="非会员人均贡献        "
+         android:textSize="15dp" 
+         android:paddingTop="11dp"
+         android:paddingBottom="11dp"
+         />
+
+     <TextView
+         android:id="@+id/avgNonMemberCourtesyValTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="15dp" />
+    </LinearLayout>
+    <LinearLayout
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="left"
+     android:layout_marginTop="2dp"
+     android:gravity="left"
+     android:layout_marginLeft="5dp"  >
+
+     <TextView
+         android:id="@+id/avgNonMemberActualTotalTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="非会员实缴总额        "
+         android:textSize="15dp"
+         android:paddingTop="11dp"
+         android:paddingBottom="11dp"
+          />
+
+     <TextView
+         android:id="@+id/avgNonMemberActualTotalValTextView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="15dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:layout_gravity="center">
+     
+    <Button
+        android:id="@+id/computeBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:text="计算" />     
+        
+    <Button
+        android:id="@+id/okBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:enabled="false"
+        android:text="结账" />
+
+   <Button
+        android:id="@+id/clearBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="清空" />
+    
+    <Button
+        android:id="@+id/backBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="返回" />
+    </LinearLayout>
+
+
+</LinearLayout>
+</ScrollView>
+
+

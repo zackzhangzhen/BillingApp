@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="257" key="DIALOG_WIDTH"/>
+		<item value="388" key="DIALOG_Y_ORIGIN"/>
+		<item value="367" key="DIALOG_X_ORIGIN"/>
+		<item value="380" key="DIALOG_HEIGHT"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="memberPres" key="selection"/>
+		<list key="findhistory">
+			<item value="memberpres"/>
+			<item value="oldDeposit"/>
+			<item value="max"/>
+			<item value="backup"/>
+			<item value="format"/>
+			<item value="External"/>
+			<item value="MemberPointAndDeposit"/>
+			<item value="sendsms"/>
+		</list>
+		<list key="replacehistory">
+			<item value="android:textSize=&quot;20dp&quot;"/>
+			<item value="android:layout_marginTop=&quot;60dp&quot;"/>
+			<item value="android:ems=&quot;8&quot;"/>
+			<item value="android:textSize=&quot;15dp&quot;"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="264" key="DIALOG_Y_ORIGIN"/>
+		<item value="409" key="DIALOG_X_ORIGIN"/>
+	</section>
+</section>

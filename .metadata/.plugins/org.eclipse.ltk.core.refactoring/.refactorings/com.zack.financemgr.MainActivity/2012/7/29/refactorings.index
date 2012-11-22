@@ -1,0 +1,54 @@
+1342441336755	Copy file
+1342442060498	Rename local variable 'computeBtn'
+1342447856611	Copy compilation unit
+1342532544344	Rename package 'com.zack.dao'
+1342533008448	Rename field 'TABLE_COMMENTS'
+1342538240220	Rename field 'db_create_full_sql'
+1342538260111	Rename local variable 'db_create_full_sql'
+1342618463611	Move compilation unit
+1342618494358	Rename type 'DAOActivity'
+1342618616691	Move compilation unit
+1342704947375	Rename field 'memberBtn'
+1342707966461	Rename compilation unit 'MyArrayAdapter.java'
+1342710759076	Infer generic type arguments
+1342720038381	Copy files
+1342720042347	Copy files
+1342720046299	Copy files
+1342720050321	Copy files
+1342753242394	Rename method 'initButtons'
+1342755652098	Copy file
+1342755654187	Copy file
+1342755656236	Copy file
+1342755658146	Copy file
+1342755802475	Copy file
+1342755803870	Copy file
+1342755805954	Copy file
+1342755807636	Copy file
+1342755944116	Copy file
+1342755947415	Copy file
+1342755947463	Copy file
+1342755951371	Copy file
+1342756495131	Copy file
+1342756496724	Copy file
+1342756498358	Copy file
+1342756500633	Copy file
+1342760888801	Rename field 'MEMBER_ID'
+1342764083809	Rename method 'startNewActivity'
+1342764099224	Rename method 'startNewActivity'
+1342764240030	Rename method 'addListenerOnButton'
+1342769268115	Rename method 'editMember'
+1342771181182	Rename field 'COLUMN_EMAIL'
+1342775763821	Copy file
+1342775794077	Copy file
+1342775871140	Copy files
+1342775876100	Copy files
+1342775881402	Copy files
+1342775882531	Copy files
+1342779358343	Copy file
+1342780116776	Rename field 'memberListView'
+1342780197882	Copy compilation unit
+1342793970184	Rename local variable 'comCb'
+1342844967019	Copy file
+1342845938730	Copy compilation unit
+1342851898529	Rename field 'turnoutListView'
+1342879433484	Rename method 'initReports'

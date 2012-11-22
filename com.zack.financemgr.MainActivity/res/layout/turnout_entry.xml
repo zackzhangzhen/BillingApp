@@ -1,0 +1,32 @@
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_selector">
+
+	<TextView 
+		android:layout_height="wrap_content" 
+		android:id="@+id/txtMemberName" 
+		android:layout_width="fill_parent" 
+		android:textAppearance="?android:attr/textAppearanceMedium" 
+		android:paddingLeft="0dp" 
+		android:paddingBottom="5dp" 
+		android:layout_margin="0dp"></TextView>
+        	    
+    <CheckBox
+        android:id="@+id/comeCb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="80dp"
+        android:layout_alignParentRight="true"
+        android:text="到场" />
+    
+    <CheckBox
+        android:id="@+id/plusOneCb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:visibility="gone"
+        android:text="带人" />
+</RelativeLayout>

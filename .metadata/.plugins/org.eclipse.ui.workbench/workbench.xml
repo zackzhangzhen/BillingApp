@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="35" version="2.0">
+<workbenchAdvisor/>
+<window height="760" maximized="true" width="1024" x="27" y="37">
+<fastViewData fastViewLocation="1024">
+<orientation position="512" view="org.eclipse.jdt.ui.PackageExplorer"/>
+</fastViewData>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="160" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="adt.actionSet.avdManager" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="adt.actionSet.lint" itemType="typeToolBarContribution" x="53" y="22"/>
+<coolItem id="adt.actionSet.wizards" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="com.android.ide.eclipse.editors.CommonXmlEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="129" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.PropertiesFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="99" y="22"/>
+<coolItem id="org.eclipse.ui.browser.editor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="130" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1341926742780" focus="true" label="Workspace - Java">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+<part id="31"/>
+<part id="32"/>
+<part id="33"/>
+<part id="34"/>
+<part id="35"/>
+<part id="36"/>
+<part id="37"/>
+<part id="38"/>
+<part id="39"/>
+<part id="40"/>
+<part id="41"/>
+<part id="42"/>
+<part id="43"/>
+<part id="44"/>
+<part id="45"/>
+<part id="46"/>
+<part id="47"/>
+<part id="48"/>
+<part id="49"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_edit_acct.xml" partName="activity_edit_acct.xml" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/res/layout/activity_edit_acct.xml" title="activity_edit_acct.xml" tooltip="com.zack.financemgr.MainActivity/res/layout/activity_edit_acct.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/res/layout/activity_edit_acct.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EditAcctActivity.java" partName="EditAcctActivity.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/EditAcctActivity.java" title="EditAcctActivity.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/EditAcctActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/EditAcctActivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1527" selectionTopPixel="315"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MemberDetailActivity.java" partName="MemberDetailActivity.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/MemberDetailActivity.java" title="MemberDetailActivity.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/MemberDetailActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/MemberDetailActivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5471" selectionTopPixel="2310"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AuthActivity.java" partName="AuthActivity.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/AuthActivity.java" title="AuthActivity.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/AuthActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/AuthActivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4460" selectionTopPixel="1815"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_auth.xml" partName="activity_auth.xml" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/res/layout/activity_auth.xml" title="activity_auth.xml" tooltip="com.zack.financemgr.MainActivity/res/layout/activity_auth.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/res/layout/activity_auth.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OpAcctDAO.java" partName="OpAcctDAO.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/persistent/dao/OpAcctDAO.java" title="OpAcctDAO.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/persistent/dao/OpAcctDAO.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/persistent/dao/OpAcctDAO.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="108" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BareBonesBrowserLaunch.java" partName="BareBonesBrowserLaunch.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/weibo4j/util/BareBonesBrowserLaunch.java" title="BareBonesBrowserLaunch.java" tooltip="com.zack.financemgr.MainActivity/src/weibo4j/util/BareBonesBrowserLaunch.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/weibo4j/util/BareBonesBrowserLaunch.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="835" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Oauth.java" partName="Oauth.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/weibo4j/Oauth.java" title="Oauth.java" tooltip="com.zack.financemgr.MainActivity/src/weibo4j/Oauth.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/weibo4j/Oauth.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="856" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="User.java" partName="User.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/weibo4j/model/User.java" title="User.java" tooltip="com.zack.financemgr.MainActivity/src/weibo4j/model/User.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/weibo4j/model/User.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="29" selectionOffset="8540" selectionTopPixel="3075"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Status.java" partName="Status.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/weibo4j/model/Status.java" title="Status.java" tooltip="com.zack.financemgr.MainActivity/src/weibo4j/model/Status.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/weibo4j/model/Status.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="556" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Query.java" partName="Query.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/weibo4j/model/Query.java" title="Query.java" tooltip="com.zack.financemgr.MainActivity/src/weibo4j/model/Query.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/weibo4j/model/Query.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1812" selectionTopPixel="2205"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Paging.java" partName="Paging.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/weibo4j/model/Paging.java" title="Paging.java" tooltip="com.zack.financemgr.MainActivity/src/weibo4j/model/Paging.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/weibo4j/model/Paging.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2068" selectionTopPixel="450"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Comment.java" partName="Comment.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/weibo4j/model/Comment.java" title="Comment.java" tooltip="com.zack.financemgr.MainActivity/src/weibo4j/model/Comment.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/weibo4j/model/Comment.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1604" selectionTopPixel="900"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ImageItem.java" partName="ImageItem.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/weibo4j/http/ImageItem.java" title="ImageItem.java" tooltip="com.zack.financemgr.MainActivity/src/weibo4j/http/ImageItem.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/weibo4j/http/ImageItem.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2172" selectionTopPixel="1068"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Timeline.java" partName="Timeline.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/weibo4j/Timeline.java" title="Timeline.java" tooltip="com.zack.financemgr.MainActivity/src/weibo4j/Timeline.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/weibo4j/Timeline.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="27355" selectionTopPixel="11235"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WeiboConfig.java" partName="WeiboConfig.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/weibo4j/util/WeiboConfig.java" title="WeiboConfig.java" tooltip="com.zack.financemgr.MainActivity/src/weibo4j/util/WeiboConfig.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/weibo4j/util/WeiboConfig.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="448" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BASE64Encoder.java" partName="BASE64Encoder.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/weibo4j/http/BASE64Encoder.java" title="BASE64Encoder.java" tooltip="com.zack.financemgr.MainActivity/src/weibo4j/http/BASE64Encoder.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/weibo4j/http/BASE64Encoder.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="13" selectionOffset="1692" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Weibo.java" partName="Weibo.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/weibo4j/Weibo.java" title="Weibo.java" tooltip="com.zack.financemgr.MainActivity/src/weibo4j/Weibo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/weibo4j/Weibo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="253" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Response.java" partName="Response.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/weibo4j/http/Response.java" title="Response.java" tooltip="com.zack.financemgr.MainActivity/src/weibo4j/http/Response.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/weibo4j/http/Response.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="9455" selectionTopPixel="3180"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Log.java" partName="Log.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/examples/weibo4j/examples/oauth2/Log.java" title="Log.java" tooltip="com.zack.financemgr.MainActivity/examples/weibo4j/examples/oauth2/Log.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/examples/weibo4j/examples/oauth2/Log.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="229" selectionTopPixel="0"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_compute.xml" partName="activity_compute.xml" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/res/layout/activity_compute.xml" title="activity_compute.xml" tooltip="com.zack.financemgr.MainActivity/res/layout/activity_compute.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/res/layout/activity_compute.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UtilitiesTest.java" partName="UtilitiesTest.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/test/UtilitiesTest.java" title="UtilitiesTest.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/test/UtilitiesTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/test/UtilitiesTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="303" selectionOffset="170" selectionTopPixel="0"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_web_view_test.xml" partName="activity_web_view_test.xml" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/res/layout/activity_web_view_test.xml" title="activity_web_view_test.xml" tooltip="com.zack.financemgr.MainActivity/res/layout/activity_web_view_test.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/res/layout/activity_web_view_test.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_main_test.xml" partName="activity_main_test.xml" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/res/layout/activity_main_test.xml" title="activity_main_test.xml" tooltip="com.zack.financemgr.MainActivity/res/layout/activity_main_test.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/res/layout/activity_main_test.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_weibo_test.xml" partName="activity_weibo_test.xml" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/res/layout/activity_weibo_test.xml" title="activity_weibo_test.xml" tooltip="com.zack.financemgr.MainActivity/res/layout/activity_weibo_test.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/res/layout/activity_weibo_test.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WeiboTestActivity.java" partName="WeiboTestActivity.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/WeiboTestActivity.java" title="WeiboTestActivity.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/WeiboTestActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/WeiboTestActivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1037" selectionTopPixel="285"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MainTestActivity.java" partName="MainTestActivity.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/test/MainTestActivity.java" title="MainTestActivity.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/test/MainTestActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/test/MainTestActivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="989" selectionTopPixel="303"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MySSLSocketFactory.java" partName="MySSLSocketFactory.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/weibo4j/model/MySSLSocketFactory.java" title="MySSLSocketFactory.java" tooltip="com.zack.financemgr.MainActivity/src/weibo4j/model/MySSLSocketFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/weibo4j/model/MySSLSocketFactory.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1710" selectionTopPixel="195"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_main.xml" partName="activity_main.xml" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/res/layout/activity_main.xml" title="activity_main.xml" tooltip="com.zack.financemgr.MainActivity/res/layout/activity_main.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/res/layout/activity_main.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_compute_summary.xml" partName="activity_compute_summary.xml" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/res/menu/activity_compute_summary.xml" title="activity_compute_summary.xml" tooltip="com.zack.financemgr.MainActivity/res/menu/activity_compute_summary.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/res/menu/activity_compute_summary.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MemberDAO.java" partName="MemberDAO.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/persistent/dao/MemberDAO.java" title="MemberDAO.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/persistent/dao/MemberDAO.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/persistent/dao/MemberDAO.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3117" selectionTopPixel="978"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BaseDAO.java" partName="BaseDAO.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/persistent/dao/BaseDAO.java" title="BaseDAO.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/persistent/dao/BaseDAO.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/persistent/dao/BaseDAO.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="797" selectionTopPixel="630"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_ranking.xml" partName="activity_ranking.xml" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/res/layout/activity_ranking.xml" title="activity_ranking.xml" tooltip="com.zack.financemgr.MainActivity/res/layout/activity_ranking.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/res/layout/activity_ranking.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_main_test.xml" partName="activity_main_test.xml" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/res/menu/activity_main_test.xml" title="activity_main_test.xml" tooltip="com.zack.financemgr.MainActivity/res/menu/activity_main_test.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/res/menu/activity_main_test.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Utilities.java" partName="Utilities.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/utilities/Utilities.java" title="Utilities.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/utilities/Utilities.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/utilities/Utilities.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6344" selectionTopPixel="3825"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="com.zack.financemgr.MainActivity Manifest" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/AndroidManifest.xml" title="com.zack.financemgr.MainActivity Manifest" tooltip="com.zack.financemgr.MainActivity/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/AndroidManifest.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_member_list.xml" partName="activity_member_list.xml" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/res/layout/activity_member_list.xml" title="activity_member_list.xml" tooltip="com.zack.financemgr.MainActivity/res/layout/activity_member_list.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/res/layout/activity_member_list.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RestoreDBActivity.java" partName="RestoreDBActivity.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/RestoreDBActivity.java" title="RestoreDBActivity.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/RestoreDBActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/RestoreDBActivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1327" selectionTopPixel="663"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DBArrayAdapter.java" partName="DBArrayAdapter.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/data/adapter/DBArrayAdapter.java" title="DBArrayAdapter.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/data/adapter/DBArrayAdapter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/data/adapter/DBArrayAdapter.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2193" selectionTopPixel="495"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ComputeActivity.java" partName="ComputeActivity.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/ComputeActivity.java" title="ComputeActivity.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/ComputeActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/ComputeActivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3339" selectionTopPixel="960"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RankingActivity.java" partName="RankingActivity.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/RankingActivity.java" title="RankingActivity.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/RankingActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/RankingActivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4633" selectionTopPixel="2280"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Member.java" partName="Member.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/persistent/entity/Member.java" title="Member.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/persistent/entity/Member.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/persistent/entity/Member.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1826" selectionTopPixel="1373"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ComputeSummaryActivity.java" partName="ComputeSummaryActivity.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/ComputeSummaryActivity.java" title="ComputeSummaryActivity.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/ComputeSummaryActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/ComputeSummaryActivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5454" selectionTopPixel="2190"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MainActivity.java" partName="MainActivity.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/MainActivity.java" title="MainActivity.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/MainActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/MainActivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1434" selectionTopPixel="48"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_restore_db.xml" partName="activity_restore_db.xml" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/res/layout/activity_restore_db.xml" title="activity_restore_db.xml" tooltip="com.zack.financemgr.MainActivity/res/layout/activity_restore_db.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/res/layout/activity_restore_db.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="db_entry.xml" partName="db_entry.xml" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/res/layout/db_entry.xml" title="db_entry.xml" tooltip="com.zack.financemgr.MainActivity/res/layout/db_entry.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/res/layout/db_entry.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="member_entry.xml" partName="member_entry.xml" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/res/layout/member_entry.xml" title="member_entry.xml" tooltip="com.zack.financemgr.MainActivity/res/layout/member_entry.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/res/layout/member_entry.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Upload.java" partName="Upload.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/examples/weibo4j/examples/timeline/Upload.java" title="Upload.java" tooltip="com.zack.financemgr.MainActivity/examples/weibo4j/examples/timeline/Upload.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/examples/weibo4j/examples/timeline/Upload.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1383" selectionTopPixel="398"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Constants.java" partName="Constants.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/utilities/Constants.java" title="Constants.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/utilities/Constants.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/utilities/Constants.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="16" selectionOffset="261" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TurnoutArrayAdapter.java" partName="TurnoutArrayAdapter.java" path="D:/Zack/Workspace/FMWDB/com.zack.financemgr.MainActivity/src/com/zack/data/adapter/TurnoutArrayAdapter.java" title="TurnoutArrayAdapter.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/data/adapter/TurnoutArrayAdapter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/com.zack.financemgr.MainActivity/src/com/zack/data/adapter/TurnoutArrayAdapter.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="25" selectionOffset="3175" selectionTopPixel="1650"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+</viewState>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.cdt.debug.ui.executablesView" partName="Executables"/>
+<view id="org.eclipse.debug.ui.BreakpointView" partName="Breakpoints">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks"/>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="com.android.ide.eclipse.ddms.views.LogCatView" partName="LogCat">
+<viewState/>
+</view>
+<view id="com.android.ide.eclipse.ddms.views.FileExplorerView" partName="File Explorer">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>
+<category IMemento.internal.id="Warnings (100 of 121 items)"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState group_libraries="1" layout="2" linkWithEditor="1" rootMode="1" workingSetName="">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+<child filterId="org.eclipse.mylyn.java.ui.MembersFilter" isEnabled="false"/>
+<child filterId="org.eclipse.m2e.MavenModuleFilter" isEnabled="false"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks" partName="Task List">
+<viewState linkWithEditor="true" presentation="org.eclipse.mylyn.tasks.ui.categorized">
+<sorter groupBy="CATEGORY_QUERY">
+<sorter>
+<sort0 sortDirection="1" sortKey="PRIORITY"/>
+<sort1 sortDirection="1" sortKey="RANK"/>
+<sort2 sortDirection="1" sortKey="DATE_CREATED"/>
+<sort3 sortDirection="1" sortKey="NONE"/>
+<sort4 sortDirection="1" sortKey="NONE"/>
+<sort5 sortDirection="1" sortKey="NONE"/>
+<sort6 sortDirection="1" sortKey="NONE"/>
+<sort7 sortDirection="1" sortKey="NONE"/>
+</sorter>
+</sorter>
+<filteredTreeFindHistory/>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.wb.core.ui.actionset"/>
+<alwaysOnActionSet id="adt.actionSet.wizards"/>
+<alwaysOnActionSet id="adt.actionSet.refactorings"/>
+<alwaysOnActionSet id="adt.actionSet.avdManager"/>
+<alwaysOnActionSet id="adt.actionSet.lint"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<show_view_action id="org.eclipse.wb.core.StructureView"/>
+<show_view_action id="org.eclipse.wb.core.PaletteView"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="com.android.ide.eclipse.adt.project.NewProjectWizard"/>
+<new_wizard_action id="com.android.ide.eclipse.editors.wizards.NewXmlFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="com.android.ide.eclipse.ddms.Perspective"/>
+<perspective_action id="com.android.ide.eclipse.hierarchyviewer.PixelPerfectPespective"/>
+<perspective_action id="com.android.ide.eclipse.hierarchyviewer.TreeViewPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="com.android.ide.eclipse.ddms.views.FileExplorerView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<page content="org.eclipse.wb.core.StructureView" label="LabelNotFound"/>
+<page content="org.eclipse.wb.core.PaletteView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@f16725" ratio="0.7496183" ratioLeft="491" ratioRight="164" relationship="4" relative="left">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="com.android.ide.eclipse.ddms.views.FileExplorerView" label="File Explorer"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="954" ratioRight="318" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="318" ratioRight="954" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.7496183" ratioLeft="491" ratioRight="164" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@18eaf01" ratio="0.7494759" ratioLeft="715" ratioRight="239" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.mylyn.tasks.ui.views.tasks" appearance="2" expanded="2">
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="Task List"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.49898168" ratioLeft="245" ratioRight="246" relationship="4" relative="org.eclipse.ui.internal.ViewStack@18eaf01">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.egit.ui.RepositoriesView" ratio="0.6" ratioLeft="393" ratioRight="262" relationship="4" relative="left"/>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.debug.internal.ui.DebugPerspectiveFactory" id="org.eclipse.debug.ui.DebugPerspective" label="Debug"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.wb.core.ui.actionset"/>
+<alwaysOnActionSet id="adt.actionSet.wizards"/>
+<alwaysOnActionSet id="adt.actionSet.refactorings"/>
+<alwaysOnActionSet id="adt.actionSet.avdManager"/>
+<alwaysOnActionSet id="adt.actionSet.lint"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.debug.ui.DebugView"/>
+<show_view_action id="org.eclipse.debug.ui.VariableView"/>
+<show_view_action id="org.eclipse.debug.ui.BreakpointView"/>
+<show_view_action id="org.eclipse.debug.ui.ExpressionView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.LogCatView"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.DeviceView"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.cdt.debug.ui.SignalsView"/>
+<show_view_action id="org.eclipse.debug.ui.RegisterView"/>
+<show_view_action id="org.eclipse.debug.ui.ModuleView"/>
+<show_view_action id="org.eclipse.debug.ui.MemoryView"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.cdt.debug.ui.executablesView"/>
+<show_view_action id="org.eclipse.cdt.dsf.gdb.ui.tracecontrol.view"/>
+<show_view_action id="org.eclipse.cdt.dsf.debug.ui.disassembly.view"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.jdt.debug.ui.DisplayView"/>
+<perspective_action id="com.android.ide.eclipse.ddms.Perspective"/>
+<perspective_action id="org.eclipse.cdt.ui.CPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.wst.xml.ui.perspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="com.android.ide.eclipse.ddms.views.LogCatView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.cdt.debug.ui.executablesView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.debug.ui.BreakpointView"/>
+<fastViewBars/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7493976" ratioLeft="933" ratioRight="312" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.7469325" ratioLeft="487" ratioRight="165" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.cdt.debug.ui.executablesView" label="Executables"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.debug.ui.DisplayView" label="LabelNotFound"/>
+<page content="org.eclipse.search.SearchResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@146cb01" ratio="0.49959838" ratioLeft="622" ratioRight="623" relationship="2" relative="org.eclipse.debug.internal.ui.ConsoleFolderView">&#x0A;<folder activePageID="com.android.ide.eclipse.ddms.views.LogCatView" appearance="2" expanded="2">&#x0A;<page content="com.android.ide.eclipse.ddms.views.LogCatView" label="LogCat"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.44806516" ratioLeft="220" ratioRight="271" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.7493976" ratioLeft="933" ratioRight="312" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.dsf.gdb.ui.tracecontrol.view" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.49959838" ratioLeft="622" ratioRight="623" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.BreakpointView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.debug.ui.SignalsView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.ModuleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/ComputeSummaryActivity.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/ComputeActivity.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/com.zack.financemgr.MainActivity/src/com/zack/persistent/entity/Member.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/com.zack.financemgr.MainActivity/examples/weibo4j/examples/timeline/Upload.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/com.zack.financemgr.MainActivity/src/com/zack/data/adapter/DBArrayAdapter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/com.zack.financemgr.MainActivity/src/com/zack/data/adapter/MemberArrayAdapter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/com.zack.financemgr.MainActivity/src/com/zack/data/adapter/RosterArrayAdapter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/com.zack.financemgr.MainActivity/src/com/zack/data/adapter/TurnoutArrayAdapter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/RankingActivity.java"/>
+</editors>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="8003" y="14"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="8640" y="0"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="7927" y="13"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="8022" y="14"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="10583" y="18"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="10638" y="14"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="10629" y="0"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="10867" y="10"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="10638" y="14"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="7823" y="25"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="8003" y="14"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="8047" y="0"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="7866" y="1"/>
+</item>
+<item historyLabel="Member.java" index="2">
+<position info="not_deleted" x="361" y="5"/>
+</item>
+<item historyLabel="Member.java" index="2">
+<position info="not_deleted" x="1826" y="0"/>
+</item>
+<item historyLabel="ComputeActivity.java" index="1">
+<position info="not_deleted" x="3339" y="0"/>
+</item>
+<item historyLabel="Member.java" index="2">
+<position info="not_deleted" x="1826" y="0"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="7862" y="0"/>
+</item>
+<item historyLabel="Upload.java" index="3">
+<position info="not_deleted" x="1249" y="0"/>
+</item>
+<item historyLabel="Upload.java" index="3">
+<position info="not_deleted" x="1533" y="0"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="8393" y="0"/>
+</item>
+<item historyLabel="Upload.java" index="3">
+<position info="not_deleted" x="1361" y="0"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="8580" y="0"/>
+</item>
+<item historyLabel="Upload.java" index="3">
+<position info="not_deleted" x="1361" y="0"/>
+</item>
+<item historyLabel="DBArrayAdapter.java" index="4">
+<position info="not_deleted" x="2193" y="0"/>
+</item>
+<item historyLabel="MemberArrayAdapter.java" index="5">
+<position info="not_deleted" x="1450" y="25"/>
+</item>
+<item historyLabel="RosterArrayAdapter.java" index="6">
+<position info="not_deleted" x="2033" y="0"/>
+</item>
+<item historyLabel="RosterArrayAdapter.java" index="6">
+<position info="not_deleted" x="4736" y="15"/>
+</item>
+<item historyLabel="RosterArrayAdapter.java" index="6">
+<position info="not_deleted" x="5001" y="25"/>
+</item>
+<item historyLabel="TurnoutArrayAdapter.java" index="7">
+<position info="not_deleted" x="5001" y="25"/>
+</item>
+<item historyLabel="TurnoutArrayAdapter.java" index="7">
+<position info="not_deleted" x="2910" y="15"/>
+</item>
+<item historyLabel="TurnoutArrayAdapter.java" index="7">
+<position info="not_deleted" x="3175" y="25"/>
+</item>
+<item historyLabel="Upload.java" index="3">
+<position info="not_deleted" x="1082" y="17"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="4033" y="173"/>
+</item>
+<item historyLabel="RankingActivity.java" index="8">
+<position info="not_deleted" x="4633" y="0"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="4351" y="0"/>
+</item>
+<item historyLabel="Upload.java" index="3">
+<position info="not_deleted" x="1383" y="0"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="4351" y="0"/>
+</item>
+<item historyLabel="RankingActivity.java" index="8">
+<position info="not_deleted" x="4633" y="0"/>
+</item>
+<item historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="4351" y="0"/>
+</item>
+<item active="true" historyLabel="ComputeSummaryActivity.java" index="0">
+<position info="not_deleted" x="7870" y="7"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MemberArrayAdapter.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/data/adapter/MemberArrayAdapter.java">
+<persistable path="/com.zack.financemgr.MainActivity/src/com/zack/data/adapter/MemberArrayAdapter.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Constants.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/utilities/Constants.java">
+<persistable path="/com.zack.financemgr.MainActivity/src/com/zack/utilities/Constants.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Upload.java" tooltip="com.zack.financemgr.MainActivity/examples/weibo4j/examples/timeline/Upload.java">
+<persistable path="/com.zack.financemgr.MainActivity/examples/weibo4j/examples/timeline/Upload.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="member_entry.xml" tooltip="com.zack.financemgr.MainActivity/res/layout/member_entry.xml">
+<persistable path="/com.zack.financemgr.MainActivity/res/layout/member_entry.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="db_entry.xml" tooltip="com.zack.financemgr.MainActivity/res/layout/db_entry.xml">
+<persistable path="/com.zack.financemgr.MainActivity/res/layout/db_entry.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_restore_db.xml" tooltip="com.zack.financemgr.MainActivity/res/layout/activity_restore_db.xml">
+<persistable path="/com.zack.financemgr.MainActivity/res/layout/activity_restore_db.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MainActivity.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/MainActivity.java">
+<persistable path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/MainActivity.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ComputeSummaryActivity.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/ComputeSummaryActivity.java">
+<persistable path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/ComputeSummaryActivity.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Member.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/persistent/entity/Member.java">
+<persistable path="/com.zack.financemgr.MainActivity/src/com/zack/persistent/entity/Member.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RankingActivity.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/RankingActivity.java">
+<persistable path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/RankingActivity.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ComputeActivity.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/ComputeActivity.java">
+<persistable path="/com.zack.financemgr.MainActivity/src/com/zack/financemgr/activity/ComputeActivity.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Method.class" tooltip="java.lang.reflect.Method">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=com.zack.financemgr.MainActivity/D:\/App\/Android\/android-sdk\/platforms\/android-8\/android.jar&lt;java.lang.reflect(Method.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DBArrayAdapter.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/data/adapter/DBArrayAdapter.java">
+<persistable path="/com.zack.financemgr.MainActivity/src/com/zack/data/adapter/DBArrayAdapter.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="ArrayAdapter.class" tooltip="android.widget.ArrayAdapter">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=com.zack.financemgr.MainActivity/D:\/App\/Android\/android-sdk\/platforms\/android-8\/android.jar&lt;android.widget(ArrayAdapter.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DBEntry.java" tooltip="com.zack.financemgr.MainActivity/src/com/zack/persistent/entity/DBEntry.java">
+<persistable path="/com.zack.financemgr.MainActivity/src/com/zack/persistent/entity/DBEntry.java"/>
+</file>
+</mruList>
+</workbench>
